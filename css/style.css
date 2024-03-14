@@ -78,7 +78,7 @@ img {
 .wrapper {
   width: 800px;
   margin: 0 auto;
-  /*background: url("https://s3.amazonaws.com/learn-verified/MOCKUP.jpg");*/
+  background: url("https://s3.amazonaws.com/learn-verified/MOCKUP.jpg");*/
 }
 
 .album {
@@ -100,13 +100,13 @@ img {
 #back {
   background: rgba(247,211,27,1);
   text-align: center;
-  padding: 130px 35px 35px;
+  padding: 135px 30px 30px;
 }
 
 #title-box {
-  width: 252px;
+  width: 258px;
   height: 165px;
   background: rgba(247,211,27,1);
-  margin-left: 163px;
+  margin-left: 167px;
   padding-top: 25px;
 }
